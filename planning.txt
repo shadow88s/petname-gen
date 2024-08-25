@@ -1,0 +1,5 @@
+Dog name:
+Three arrays of names.
+First Name
+Middle Name
+Last Name
